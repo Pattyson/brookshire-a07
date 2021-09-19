@@ -3,6 +3,8 @@ plugins {
     id 'application'
 }
 
+mainClassName="Solution07"
+
 group 'org.example'
 version '1.0-SNAPSHOT'
 
@@ -26,3 +28,4 @@ application {
 run {
     standardInput = System.in
 }
+
